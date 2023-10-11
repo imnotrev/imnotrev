@@ -2,4 +2,4 @@
 - 👀 I’m interested in Open Source stuff
 - 🌱 I’m currently learning coding and things
 
-![Metrics](https://metrics.lecoq.io/imnotrev)
+![Metrics]([https://metrics.lecoq.io/embed?user=imnotrev])
